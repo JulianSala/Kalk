@@ -6,7 +6,6 @@
 #include <QtQml/QtQml>
 #include <QtQml/QQmlContext>
 
-
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
@@ -17,5 +16,3 @@ int main(int argc, char *argv[])
 
     return app.exec();
 }
-
-

@@ -9,6 +9,6 @@ include(viewer/qtquick2applicationviewer.pri)
 qtcAddDeployment()
 
 SOURCES += \
-    main.cpp \
+    main.cpp
 
-HEADERS += \
+HEADERS +=
